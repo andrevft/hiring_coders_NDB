@@ -80,7 +80,7 @@ header ul li a {
     color: #69b7d6;
     background-color: #fffffff1;
     padding: 10px 20px;
-    border-radius: 7px;
+    border-radius: 40px;
     font-weight: bold;
     transition: 0.2s;
 }
@@ -174,7 +174,7 @@ text-decoration: #fd5f7e double underline;
 .link_vermais {
     text-decoration: none;
     color: gray;
-    padding: 2px 6px;
+    padding: 3px 5px;
     text-align: center;
     float: right;
     border-radius: 15px;
@@ -189,8 +189,8 @@ text-decoration: #fd5f7e double underline;
 
 .link_vermais:hover {
     text-decoration: none;
-    color: rgb(219, 210, 210);
-    background-color: rgba(255, 255, 255, 0.966);
+    color: rgba(219, 210, 210, 0.986);
+    background-color: rgba(255, 255, 255, 0.842);
     transition: 0.2s;
  }
 
@@ -212,6 +212,7 @@ text-decoration: #fd5f7e double underline;
 .video {
     display: flex;
     justify-content: center;
+    padding-top: 20px;
 
 }
 
@@ -221,12 +222,14 @@ text-decoration: #fd5f7e double underline;
 
  /* -----------------FOOTER--------------------------------- */ 
   /* ------------------------------------------------------- */ 
+  
 footer {
     display: inline-flex;
     align-items: center;
     width: 100%;
     color: rgb(148, 148, 148);
     background-color: #5fbaf7;
+    margin-top: 50px;
 }
 
 .container_footer
@@ -299,22 +302,23 @@ width: 70%;
   }
 
   button[type=submit] {
-    background-color: #78cbec;
+    background-color: #34b5e1;
     border: 1px #4f4c5f;
-    border-radius: 5px;
+    border-radius: 30px;
     color: white;
     padding: auto;
     text-decoration: none;
     margin: auto;
     cursor: pointer;
     width: 100px;
-    height: 45px;
+    height: 37px;
     text-align: center;
+    font-weight: bold;
     justify-content: center;
   }
  
   button[type=submit]:hover {
-    background-color: #34b5e1;
+    background-color: #78cbec;
     transition: 0.3s;
  
     }
