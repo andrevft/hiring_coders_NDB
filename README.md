@@ -1,18 +1,17 @@
 
-# CPF Validator :computer: 
+# Notícias do Bem :newspaper: 
 
-Project for a validator of any CPF (Individual Taxpayer Registration) typed on a web page.
+Project for a web site with good news about COVID-19.
 
 ## Motivation
 
-Challenge launched in the Hiring Coders project at Gama Academy which consists of building a web page where the user informs the number of a CPF and the system validates if it is valid or not.
+Challenge launched in the Hiring Coders project at Gama Academy which consists of building a web page using just HTML and CSS.
 
 ## Prerequisites for the project
 
 - HTML5;
 - CSS;
-- JAVASCRIPT;
-- BOOTSTRAP 4;
+
 
 ## Author
 
@@ -22,6 +21,3 @@ Challenge launched in the Hiring Coders project at Gama Academy which consists o
 
 This project is open source and available under the [MIT License](LICENSE.md).
 
-## Credits
-
-- [JC Bombardelli](https://github.com/jcbombardelli/gama-no-javascript-basico)
